@@ -1,0 +1,11 @@
+*.json
+*.props
+*.cache
+*.dll
+*.pdb
+*.targets
+*.exe
+*.csproj
+*.txt
+*.editorconfig
+*\net10.0
