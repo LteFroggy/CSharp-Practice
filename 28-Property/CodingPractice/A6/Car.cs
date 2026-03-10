@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace A6 {
+    internal class Car {
+        private string _name;
+
+        public string Name { 
+            get { return _name; }
+            set { _name = value;}
+        }
+        public string Color { get; set;}
+    }
+}
